@@ -8,7 +8,7 @@ Linear regression is a regression model that estimates the relationship between 
 Car Price Prediction using Machine Learning with Python.
  
 ## Problem Statement
- 
+  
 The objective of this project is to do the prediction of car price.
  
 ## Aim
@@ -17,3 +17,21 @@ Aim of this project is the do the prediction of used car price using the dataset
 
 
 Dataset File: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
+
+
+# House_Price_Prediction_Model
+ 
+## Introduction.
+ 
+House Price Prediction using Machine Learning with Python.
+ 
+## Problem Statement
+ 
+The objective of this project is to do the prediction of House price.
+ 
+## Aim
+ 
+Aim of this project is the do the prediction of the House price using the dataset. We are using machine learning algorithms such as Linear Regression and Stochastic gradient descent to pridict the house price.
+
+
+Dataset File: House_Price_Train.csv
